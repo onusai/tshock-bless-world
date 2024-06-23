@@ -19,7 +19,7 @@ namespace BlessWorld
 
         public override string Author => "Onusai";
         public override string Description => "Converts all ores/bars in the world to their better variant";
-        public override string Name => "Bless World";
+        public override string Name => "BlessWorld";
         public override Version Version => new Version(1, 0, 0, 0);
 
         public class ConfigData
