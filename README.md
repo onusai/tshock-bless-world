@@ -15,4 +15,4 @@ To edit which ores/bars/items are changed, edit `tshock/BlessWorld.json`
 
 ***
 
-[Download BlessWorld.dll](https://github.com/onusai/tshock-bless-world/raw/main/bin/Debug/net6.0/BlessWorld.dll)
+[Download BlessWorld.dll](https://github.com/onusai/tshock-bless-world/raw/main/bin/Debug/net9.0/BlessWorld.dll)
